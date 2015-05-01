@@ -12,7 +12,7 @@ public class Professor {
     private String nomeProfessor;
     private String cpfProfessor;
     private String departamentoProfessor;
-   // lllljfhjgk
+   
     
     
 }
